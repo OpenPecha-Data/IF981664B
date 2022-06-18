@@ -1,0 +1,36 @@
+id: IF981664B
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:11:39.158936'
+last_modified: '2022-06-18T20:11:39.158946'
+parser: null
+source_metadata:
+  title: Hagiography of the 8th Nālendra abbot mKhyen rab chos rje (1436–1497)
+  author: zhwa lu lo tsA ba chos skyong bzang po/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-06-06); revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/1799
+  bases:
+    fa73:
+      title: Hagiography of the 8th Nālendra abbot mKhyen rab chos rje (1436–1497)
+      order: 1
+      base_file: fa73.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
